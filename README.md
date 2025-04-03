@@ -65,7 +65,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=steveRoggers" alt="Codeforces" height="250" />
   </a>
   <a href="https://leetcode.com/Anshulstark44" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sharmagdf?ext=contest" alt="Leetcode" height="250" />
+    <img src="https://leetcard.jacoblin.cool/Anshulstark44?ext=contest" alt="Leetcode" height="250" />
   </a>
 </p>
 
